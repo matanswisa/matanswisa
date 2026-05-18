@@ -110,29 +110,26 @@ A full-stack form platform that renders UI from JSON schema, validates input on 
 
 [Combined Repository](https://github.com/matanswisa/dynamic-form-platform-)
 
-### Support Ticketing Workflow
+### Pulp Repository Management
 
-Ticket management workflow with hide/restore, dark mode, cloning, pagination, and test coverage.
+Open-source work around Pulp repository management, focused on Debian repository publishing flows, mirror probing endpoints, and UI support for distribution setup and client bootstrap automation.
 
-`React` `Node.js` `Lerna` `REST` `SQLite testing`
+<table>
+  <tr>
+    <td><strong>UI Work</strong></td>
+    <td>Repository publishing actions, Debian distribution flows, generated APT source lines, bootstrap script integration</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Work</strong></td>
+    <td>Custom Pulpcore endpoints for mirror probing, Debian metadata discovery, signing-service bootstrap support, npm compatibility patches</td>
+  </tr>
+  <tr>
+    <td><strong>Stack</strong></td>
+    <td>React, PatternFly ecosystem, Python, Docker, Pulpcore, Debian repository workflows</td>
+  </tr>
+</table>
 
-Source available after repository cleanup.
-
-### Dockerized Client/Server App
-
-Full-stack app organized as independently runnable client and server services with Docker Compose support.
-
-`React` `Node.js` `Docker Compose`
-
-Source available after repository cleanup.
-
-### TypeScript Frontend App
-
-Typed React frontend built with modern Vite tooling and linting.
-
-`TypeScript` `React` `Vite` `ESLint`
-
-Source available after repository cleanup.
+[UI Repository](https://github.com/matanswisa/pulp-ui-prod) · [Backend Repository](https://github.com/matanswisa/pulp-backend-production)
 
 ## Engineering Toolbox
 
