@@ -142,4 +142,10 @@ Open-source work around Pulp repository management, focused on Debian repository
 
 ## Current Focus
 
-I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), an application focused on fundamental stock analysis, market context, and news aggregation. The goal is to bring company data, financial signals, and relevant headlines into one workflow that is easier to scan, compare, and act on.
+I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), a stock research app that brings company fundamentals, price context, and market news into one workflow. The current direction is a cleaner research surface for scanning a company, checking core metrics, and moving quickly from a ticker search into a decision-ready summary.
+
+<p align="center">
+  <img src="assets/stocks-analysis-msft.png" alt="Stocks analysis application showing a Microsoft company summary, price, and key metrics" width="100%" />
+</p>
+
+The screenshot above is a live run of the app on a Microsoft (`MSFT`) lookup, showing the ticker search flow, company snapshot, price action, and key business metrics in one view.
