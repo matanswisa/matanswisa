@@ -142,4 +142,4 @@ Open-source work around Pulp repository management, focused on Debian repository
 
 ## Current Focus
 
-I am continuing to build full-stack projects that combine useful UI, reliable backend behavior, and codebases that are easy to maintain.
+I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), an application focused on fundamental stock analysis, market context, and news aggregation. The goal is to bring company data, financial signals, and relevant headlines into one workflow that is easier to scan, compare, and act on.
