@@ -17,7 +17,7 @@
 
 ## About
 
-I build web applications across frontend, backend, and data layers. Most of my projects are small full-stack systems: map-based apps, dynamic forms, paginated records APIs, authenticated workflows, and client-server applications.
+I build web applications across frontend, backend, and data layers. Most of my projects are small full-stack systems: map-based apps, dynamic forms, authenticated workflows, and client-server applications.
 
 I care about clear API contracts, clean UI states, typed code, readable project structure, and projects that are straightforward to run and extend.
 
@@ -57,14 +57,6 @@ Schema-driven form generation with client-side validation and API-backed persist
 `React 19` `Vite` `MUI` `Formik` `Yup` `FastAPI` `Pydantic` `SQLAlchemy` `PostgreSQL`
 
 [Client](https://github.com/matanswisa/form-generation-client) · [API](https://github.com/matanswisa/form-generation-backend)
-
-### Patient Records System
-
-Patient browsing interface backed by a paginated REST API and Swagger-documented .NET backend.
-
-`React` `ASP.NET Core` `.NET 8` `REST` `Swagger`
-
-[API](https://github.com/matanswisa/Patients-api-backend)
 
 ### Support Ticketing Workflow
 
