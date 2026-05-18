@@ -23,12 +23,12 @@ I care about clear API contracts, clean UI states, typed code, readable project 
 
 ## Selected Projects
 
-### Street Eats
+### Street Food Trucks
 
 A community food-truck tracker with map-based discovery, filtering, role-based editing, seeded data, and an assistant-style interaction panel.
 
 <p align="center">
-  <img src="assets/street-eats.png" alt="Street Eats full-stack map application screenshot" width="100%" />
+  <img src="assets/street-eats.png" alt="Street Food Trucks full-stack map application screenshot" width="100%" />
 </p>
 
 <table>
