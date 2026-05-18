@@ -1,56 +1,104 @@
-# Matan Swisa
+<h1 align="center">Matan Swisa</h1>
 
-Full-stack software developer building practical web applications with polished user interfaces, useful APIs, and maintainable project structure.
+<p align="center">
+  <strong>Full-Stack Software Developer</strong><br />
+  React, TypeScript, Node.js, FastAPI, ASP.NET Core, and SQL-backed applications.
+</p>
 
-I work across React, TypeScript, Node.js, FastAPI, ASP.NET Core, SQL databases, and modern frontend tooling. My portfolio is built around working products: map-based apps, dynamic forms, paginated records systems, authenticated workflows, and client-server applications that can be run, tested, and extended.
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-1F2937?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+</p>
 
-## What I Build
+---
 
-- Full-stack web applications from API design through frontend implementation
-- React and TypeScript interfaces with validation, state management, and API integration
-- REST APIs using Node.js, NestJS, FastAPI, and ASP.NET Core
-- Data-backed systems using SQLAlchemy, TypeORM, SQLite, and PostgreSQL
-- Product-style features: authentication, role-based access, pagination, search, forms, maps, and tests
+## About
 
-## Featured Proof Of Work
+I build web applications across frontend, backend, and data layers. Most of my projects are small full-stack systems: map-based apps, dynamic forms, paginated records APIs, authenticated workflows, and client-server applications.
+
+I care about clear API contracts, clean UI states, typed code, readable project structure, and projects that are straightforward to run and extend.
+
+## Selected Projects
 
 ### Street Eats
 
-Community food-truck tracker with map-based discovery, filtering, role-based editing, seeded data, and an assistant-style interaction panel.
+A community food-truck tracker with map-based discovery, filtering, role-based editing, seeded data, and an assistant-style interaction panel.
 
-![Street Eats application screenshot](assets/street-eats.png)
+<p align="center">
+  <img src="assets/street-eats.png" alt="Street Eats full-stack map application screenshot" width="100%" />
+</p>
 
-**What it demonstrates**
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, TypeScript, Redux Toolkit, OpenLayers, Vite</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>NestJS, TypeORM, REST APIs, role-aware endpoints</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>SQLite, seeded domain data, truck location records</td>
+  </tr>
+  <tr>
+    <td><strong>Product Work</strong></td>
+    <td>Filtering, map markers, editor/viewer roles, CRUD flows, assistant UI</td>
+  </tr>
+</table>
 
-- Interactive geospatial UI using OpenLayers and a React frontend
-- Typed application structure with Redux Toolkit for client-side state
-- Backend API built with NestJS, TypeORM, and SQLite
-- Role-based flows for viewer/editor permissions
-- Full-stack development workflow with separate frontend/backend packages
+### Dynamic Form Platform
 
-**Stack:** React, TypeScript, Redux Toolkit, OpenLayers, NestJS, TypeORM, SQLite
+Schema-driven form generation with client-side validation and API-backed persistence.
 
-## Project Portfolio
+`React 19` `Vite` `MUI` `Formik` `Yup` `FastAPI` `Pydantic` `SQLAlchemy` `PostgreSQL`
 
-| Project | Product Focus | Stack | Source |
-|---|---|---|---|
-| Dynamic Form Platform | Schema-driven form generation with client-side validation and API-backed persistence | React 19, Vite, MUI, Formik, Yup, FastAPI, Pydantic, SQLAlchemy, PostgreSQL | [Client](https://github.com/matanswisa/form-generation-client) / [API](https://github.com/matanswisa/form-generation-backend) |
-| Street Eats | Map-based discovery, truck management, filters, roles, and assistant-style UI | React, TypeScript, Redux Toolkit, OpenLayers, NestJS, TypeORM, SQLite | Source available on request |
-| Patient Records System | Patient browsing UI backed by a paginated REST API | React, ASP.NET Core, .NET 8, Swagger, REST | [API](https://github.com/matanswisa/Patients-api-backend) |
-| Support Ticketing Workflow | Ticket workflow with hide/restore, dark mode, cloning, pagination, and test coverage | React, Node.js, Lerna, REST, SQLite test strategy | Source available after repo cleanup |
-| Dockerized Client/Server App | Full-stack app organized as independently runnable client and server services | React, Node.js, Docker Compose | Source available after repo cleanup |
-| TypeScript Frontend App | Typed React interface built with modern Vite tooling and linting | TypeScript, React, Vite, ESLint | Source available after repo cleanup |
+[Client](https://github.com/matanswisa/form-generation-client) · [API](https://github.com/matanswisa/form-generation-backend)
 
-## Technical Strengths
+### Patient Records System
 
-**Frontend:** React, TypeScript, JavaScript, Vite, Create React App, Material UI, Redux Toolkit, Formik, Yup, OpenLayers
+Patient browsing interface backed by a paginated REST API and Swagger-documented .NET backend.
 
-**Backend:** Node.js, NestJS, FastAPI, ASP.NET Core, REST APIs, authentication, authorization, pagination, Swagger/OpenAPI
+`React` `ASP.NET Core` `.NET 8` `REST` `Swagger`
 
-**Data:** PostgreSQL, SQLite, SQLAlchemy, TypeORM, in-memory testing patterns
+[API](https://github.com/matanswisa/Patients-api-backend)
 
-**Engineering:** full-stack feature delivery, API contracts, reusable UI components, validation, testable code, Docker-based development flows
+### Support Ticketing Workflow
+
+Ticket management workflow with hide/restore, dark mode, cloning, pagination, and test coverage.
+
+`React` `Node.js` `Lerna` `REST` `SQLite testing`
+
+Source available after repository cleanup.
+
+### Dockerized Client/Server App
+
+Full-stack app organized as independently runnable client and server services with Docker Compose support.
+
+`React` `Node.js` `Docker Compose`
+
+Source available after repository cleanup.
+
+### TypeScript Frontend App
+
+Typed React frontend built with modern Vite tooling and linting.
+
+`TypeScript` `React` `Vite` `ESLint`
+
+Source available after repository cleanup.
+
+## Engineering Toolbox
+
+| Area | Tools |
+|---|---|
+| Frontend | React, TypeScript, JavaScript, Vite, Create React App, Material UI, Redux Toolkit, Formik, Yup, OpenLayers |
+| Backend | Node.js, NestJS, FastAPI, ASP.NET Core, REST APIs, Swagger/OpenAPI |
+| Data | PostgreSQL, SQLite, SQLAlchemy, TypeORM |
+| Practices | API design, validation, authentication, authorization, pagination, reusable UI components, Docker workflows, testable code |
 
 ## Current Focus
 
-I am continuing to sharpen my full-stack engineering portfolio by turning practical product ideas into working applications, with attention to clean UX, reliable backend behavior, and codebases that are easy to run, test, and extend.
+I am continuing to build full-stack projects that combine useful UI, reliable backend behavior, and codebases that are easy to maintain.
