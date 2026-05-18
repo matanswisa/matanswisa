@@ -79,11 +79,36 @@ A full-stack dashboard for browsing customers and reviewing transaction activity
 
 ### Dynamic Form Platform
 
-Schema-driven form generation with client-side validation and API-backed persistence.
+A full-stack form platform that renders UI from JSON schema, validates input on the client, and stores submissions through a FastAPI backend with PostgreSQL.
 
-`React 19` `Vite` `MUI` `Formik` `Yup` `FastAPI` `Pydantic` `SQLAlchemy` `PostgreSQL`
+<p align="center">
+  <img src="assets/dynamic-form-registration.png" alt="Dynamic Form Platform user registration form screenshot" width="100%" />
+</p>
 
-[Client](https://github.com/matanswisa/form-generation-client) · [API](https://github.com/matanswisa/form-generation-backend)
+<p align="center">
+  <img src="assets/dynamic-form-support-ticket.png" alt="Dynamic Form Platform support ticket form screenshot" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/dynamic-form-feedback.png" alt="Dynamic Form Platform product feedback and saved submission screenshot" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Vite, Material UI, Formik, Yup</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>FastAPI, SQLAlchemy, Pydantic, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Product Work</strong></td>
+    <td>Schema-based form rendering, validation, persisted submissions, Dockerized client/API/database workflow</td>
+  </tr>
+</table>
+
+[Combined Repository](https://github.com/matanswisa/dynamic-form-platform-)
 
 ### Support Ticketing Workflow
 
