@@ -50,6 +50,33 @@ A community food-truck tracker with map-based discovery, filtering, role-based e
   </tr>
 </table>
 
+### Customer Transactions Dashboard
+
+A full-stack dashboard for browsing customers and reviewing transaction activity. It includes searchable customer records, direct transaction profiles, summary metrics, masked card numbers, and normalized transaction status badges.
+
+<p align="center">
+  <img src="assets/customer-transactions-overview.png" alt="Customer Transactions Dashboard users overview screenshot" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/customer-transactions-details.png" alt="Customer Transactions Dashboard transaction details screenshot" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, TypeScript, React Router, Recoil, styled-components</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express, REST API</td>
+  </tr>
+  <tr>
+    <td><strong>Workflow</strong></td>
+    <td>Docker Compose, direct routes, searchable tables, summary cards</td>
+  </tr>
+</table>
+
 ### Dynamic Form Platform
 
 Schema-driven form generation with client-side validation and API-backed persistence.
