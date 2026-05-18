@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-Stack Software Developer</strong><br />
-  React, TypeScript, Node.js, FastAPI, ASP.NET Core, and SQL-backed applications.
+  Building polished products with React, TypeScript, Node.js, FastAPI, ASP.NET Core, PostgreSQL, and SQLite.
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 
 ---
 
-## About
+## About Me
 
-I build web applications across frontend, backend, and data layers. Most of my projects are small full-stack systems: map-based apps, dynamic forms, authenticated workflows, and client-server applications.
+I build full-stack web applications across frontend, backend, and data layers. Most of my work lives in practical product spaces: dashboards, map-based tools, dynamic forms, authenticated workflows, and API-driven systems.
 
-I care about clear API contracts, clean UI states, typed code, readable project structure, and projects that are straightforward to run and extend.
+I care about clear API contracts, clean UI states, typed code, readable project structure, and projects that are easy to run, maintain, and extend.
 
 ## Selected Projects
 
-### Street Food Trucks
+### Street Food Trucks 🍔
 
-A community food-truck tracker with map-based discovery, filtering, role-based editing, seeded data, and an assistant-style interaction panel.
+A map-based food truck platform built for discovery, filtering, editor workflows, and a more interactive browsing experience.
 
 <p align="center">
   <img src="assets/street-eats.png" alt="Street Food Trucks full-stack map application screenshot" width="100%" />
@@ -50,9 +50,9 @@ A community food-truck tracker with map-based discovery, filtering, role-based e
   </tr>
 </table>
 
-### Customer Transactions Dashboard
+### Customer Transactions Dashboard 📊
 
-A full-stack dashboard for browsing customers and reviewing transaction activity. It includes searchable customer records, direct transaction profiles, summary metrics, masked card numbers, and normalized transaction status badges.
+A full-stack dashboard for browsing customers and reviewing transaction activity, with searchable records, direct detail views, summary metrics, masked card numbers, and normalized status badges.
 
 <p align="center">
   <img src="assets/customer-transactions-overview.png" alt="Customer Transactions Dashboard users overview screenshot" width="100%" />
@@ -77,9 +77,9 @@ A full-stack dashboard for browsing customers and reviewing transaction activity
   </tr>
 </table>
 
-### Dynamic Form Platform
+### Dynamic Form Platform 🧩
 
-A full-stack form platform that renders UI from JSON schema, validates input on the client, and stores submissions through a FastAPI backend with PostgreSQL.
+A schema-driven form platform that renders UI from JSON, validates input on the client, and persists submissions through a FastAPI backend with PostgreSQL.
 
 <p align="center">
   <img src="assets/dynamic-form-registration.png" alt="Dynamic Form Platform user registration form screenshot" width="100%" />
@@ -110,9 +110,9 @@ A full-stack form platform that renders UI from JSON schema, validates input on 
 
 [Combined Repository](https://github.com/matanswisa/dynamic-form-platform-)
 
-### Pulp Repository Management
+### Pulp Repository Management ⚙️
 
-Open-source work around Pulp repository management, focused on Debian repository publishing flows, mirror probing endpoints, and UI support for distribution setup and client bootstrap automation.
+Open-source work around Pulp repository management, focused on Debian publishing flows, mirror probing endpoints, and UI support for distribution setup and client bootstrap automation.
 
 <table>
   <tr>
@@ -131,7 +131,7 @@ Open-source work around Pulp repository management, focused on Debian repository
 
 [UI Repository](https://github.com/matanswisa/pulp-ui-prod) · [Backend Repository](https://github.com/matanswisa/pulp-backend-production)
 
-## Engineering Toolbox
+## Engineering Toolbox 🛠️
 
 | Area | Tools |
 |---|---|
@@ -140,12 +140,12 @@ Open-source work around Pulp repository management, focused on Debian repository
 | Data | PostgreSQL, SQLite, SQLAlchemy, TypeORM |
 | Practices | API design, validation, authentication, authorization, pagination, reusable UI components, Docker workflows, testable code |
 
-## Current Focus
+## Current Focus 🚀
 
-I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), a stock research app that brings company fundamentals, price context, and market news into one workflow. The current direction is a cleaner research surface for scanning a company, checking core metrics, and moving quickly from a ticker search into a decision-ready summary.
+I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), a stock research app that brings company fundamentals, price context, and market news into one clean workflow. The direction is a faster research surface for scanning a company, checking core metrics, and moving from a ticker search into a decision-ready summary.
 
 <p align="center">
   <img src="assets/stocks-analysis-msft.png" alt="Stocks analysis application showing a Microsoft company summary, price, and key metrics" width="100%" />
 </p>
 
-The screenshot above is a live run of the app on a Microsoft (`MSFT`) lookup, showing the ticker search flow, company snapshot, price action, and key business metrics in one view.
+The screenshot above is a live run of the app on a Microsoft (`MSFT`) lookup, showing the search flow, TradingView chart, company snapshot, price action, and key business metrics in one view.
