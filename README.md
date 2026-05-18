@@ -1,8 +1,8 @@
 # Matan Swisa
 
-Software Developer focused on building practical full-stack applications with clean user interfaces, useful APIs, and maintainable project structure.
+Full-stack software developer building practical web applications with polished user interfaces, useful APIs, and maintainable project structure.
 
-I build end-to-end products across React, TypeScript, Node.js, FastAPI, ASP.NET Core, SQL databases, and modern frontend tooling. My strongest proof of work is a set of full-stack applications that cover CRUD systems, authenticated workflows, dynamic forms, geospatial interfaces, paginated APIs, and client-server integration.
+I work across React, TypeScript, Node.js, FastAPI, ASP.NET Core, SQL databases, and modern frontend tooling. My portfolio is built around working products: map-based apps, dynamic forms, paginated records systems, authenticated workflows, and client-server applications that can be run, tested, and extended.
 
 ## What I Build
 
@@ -12,12 +12,30 @@ I build end-to-end products across React, TypeScript, Node.js, FastAPI, ASP.NET 
 - Data-backed systems using SQLAlchemy, TypeORM, SQLite, and PostgreSQL
 - Product-style features: authentication, role-based access, pagination, search, forms, maps, and tests
 
-## Selected Projects
+## Featured Proof Of Work
+
+### Street Eats
+
+Community food-truck tracker with map-based discovery, filtering, role-based editing, seeded data, and an assistant-style interaction panel.
+
+![Street Eats application screenshot](assets/street-eats.png)
+
+**What it demonstrates**
+
+- Interactive geospatial UI using OpenLayers and a React frontend
+- Typed application structure with Redux Toolkit for client-side state
+- Backend API built with NestJS, TypeORM, and SQLite
+- Role-based flows for viewer/editor permissions
+- Full-stack development workflow with separate frontend/backend packages
+
+**Stack:** React, TypeScript, Redux Toolkit, OpenLayers, NestJS, TypeORM, SQLite
+
+## Project Portfolio
 
 | Project | Product Focus | Stack | Source |
 |---|---|---|---|
 | Dynamic Form Platform | Schema-driven form generation with client-side validation and API-backed persistence | React 19, Vite, MUI, Formik, Yup, FastAPI, Pydantic, SQLAlchemy, PostgreSQL | [Client](https://github.com/matanswisa/form-generation-client) / [API](https://github.com/matanswisa/form-generation-backend) |
-| Street Eats | Community food-truck tracker with map-based discovery, favorites, roles, and truck management | React, TypeScript, Redux Toolkit, OpenLayers, NestJS, TypeORM, SQLite | Source available on request |
+| Street Eats | Map-based discovery, truck management, filters, roles, and assistant-style UI | React, TypeScript, Redux Toolkit, OpenLayers, NestJS, TypeORM, SQLite | Source available on request |
 | Patient Records System | Patient browsing UI backed by a paginated REST API | React, ASP.NET Core, .NET 8, Swagger, REST | [API](https://github.com/matanswisa/Patients-api-backend) |
 | Support Ticketing Workflow | Ticket workflow with hide/restore, dark mode, cloning, pagination, and test coverage | React, Node.js, Lerna, REST, SQLite test strategy | Source available after repo cleanup |
 | Dockerized Client/Server App | Full-stack app organized as independently runnable client and server services | React, Node.js, Docker Compose | Source available after repo cleanup |
