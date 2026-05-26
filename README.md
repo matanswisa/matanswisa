@@ -140,12 +140,23 @@ Open-source work around Pulp repository management, focused on Debian publishing
 | Data | PostgreSQL, SQLite, SQLAlchemy, TypeORM |
 | Practices | API design, validation, authentication, authorization, pagination, reusable UI components, Docker workflows, testable code |
 
-## Current Focus 🚀
+## Current Focus
 
-I am currently building [stocks-analysis](https://github.com/matanswisa/stocks-analysis), a stock research app that brings company fundamentals, price context, and market news into one clean workflow. The direction is a faster research surface for scanning a company, checking core metrics, and moving from a ticker search into a decision-ready summary.
+I am currently building [AlphaLedger / stocks-analysis](https://github.com/matanswisa/stocks-analysis), a market research terminal for stock analysis, watchlists, financial statements, market dashboards, calendars, insider activity, and structured trading ideas.
+
+The project is evolving from a simple ticker lookup into a serious research workflow: scan the market, open a company, inspect fundamentals, follow watchlist changes, review relevant news, and build a clear thesis before making a decision.
 
 <p align="center">
-  <img src="assets/stocks-analysis-msft.png" alt="Stocks analysis application showing a Microsoft company summary, price, and key metrics" width="100%" />
+  <img src="assets/alphaledger-dashboard.png" alt="AlphaLedger market dashboard with indexes, futures, news, movers, and watchlist" width="100%" />
 </p>
 
-The screenshot above is a live run of the app on a Microsoft (`MSFT`) lookup, showing the search flow, TradingView chart, company snapshot, price action, and key business metrics in one view.
+<p align="center">
+  <img src="assets/alphaledger-stock-overview.png" alt="AlphaLedger stock overview page with chart, key metrics, performance, company details, and watchlist" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/alphaledger-calendars.png" alt="AlphaLedger calendars page for earnings, economic events, and market holidays" width="49%" />
+  <img src="assets/alphaledger-insider-trading.png" alt="AlphaLedger insider trading search and filings table" width="49%" />
+</p>
+
+Current product work includes a Koyfin-style layout, DB-backed watchlists, financial report views, crypto and forex lists, calendar workflows, insider trading research, Hebrew support, and the next layer of AI-assisted stock thesis building.
