@@ -159,4 +159,4 @@ The project is evolving from a simple ticker lookup into a serious research work
   <img src="assets/alphaledger-insider-trading.png" alt="AlphaLedger insider trading search and filings table" width="49%" />
 </p>
 
-Current product work includes a Koyfin-style layout, DB-backed watchlists, financial report views, crypto and forex lists, calendar workflows, insider trading research, Hebrew support, and the next layer of AI-assisted stock thesis building.
+Current product work focuses on portfolio tracking, watchlist news, financial reports, market calendars, insider activity research, heatmaps, screeners, and AI-assisted stock thesis building.
