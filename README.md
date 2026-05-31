@@ -142,21 +142,27 @@ Open-source work around Pulp repository management, focused on Debian publishing
 
 ## Current Focus
 
-I am currently building [AlphaLedger / stocks-analysis](https://github.com/matanswisa/stocks-analysis), a market research terminal for stock analysis, watchlists, financial statements, market dashboards, calendars, insider activity, and structured trading ideas.
+I am currently building [MarketPilot / stocks-analysis](https://github.com/matanswisa/stocks-analysis), a modern stock research workspace for market scanning, chart analysis, financial research, watchlists, screeners, heatmaps, portfolio tracking, and company comparison.
 
-The project is evolving from a simple ticker lookup into a serious research workflow: scan the market, open a company, inspect fundamentals, follow watchlist changes, review relevant news, and build a clear thesis before making a decision.
+The goal is to turn raw market information into a cleaner research flow: scan the market, open a company, study fundamentals, compare peers, inspect technical context, follow news, and build a stronger investment thesis.
+
+**Live demo:** [stocks-analysis-alpha.vercel.app](https://stocks-analysis-alpha.vercel.app/)
 
 <p align="center">
-  <img src="assets/alphaledger-dashboard.png" alt="AlphaLedger market dashboard with indexes, futures, news, movers, and watchlist" width="100%" />
+  <img src="assets/marketpilot-dashboard.png" alt="MarketPilot market dashboard with indexes, market status, search, and research navigation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/alphaledger-stock-overview.png" alt="AlphaLedger stock overview page with chart, key metrics, performance, company details, and watchlist" width="100%" />
+  <img src="assets/marketpilot-charts.png" alt="MarketPilot interactive chart workspace with indicators, drawing tools, comparison tools, and earnings markers" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/alphaledger-calendars.png" alt="AlphaLedger calendars page for earnings, economic events, and market holidays" width="49%" />
-  <img src="assets/alphaledger-insider-trading.png" alt="AlphaLedger insider trading search and filings table" width="49%" />
+  <img src="assets/marketpilot-stock-analysis.png" alt="MarketPilot Microsoft stock analysis workspace with estimates, valuation, score, signals, and peer comparison tabs" width="49%" />
+  <img src="assets/marketpilot-heatmap.png" alt="MarketPilot stock heatmap with sector filters and market-cap weighted performance tiles" width="49%" />
 </p>
 
-Current product work focuses on portfolio tracking, watchlist news, financial reports, market calendars, insider activity research, heatmaps, screeners, and AI-assisted stock thesis building.
+<p align="center">
+  <img src="assets/marketpilot-compare.png" alt="MarketPilot stock comparison page with peer cards and relative performance chart" width="100%" />
+</p>
+
+Current product work focuses on making the platform clearer, faster, and more useful for real research: better charting tools, stronger financial analysis pages, cleaner mobile UX, deeper portfolio tracking, and practical AI-assisted thesis workflows.
