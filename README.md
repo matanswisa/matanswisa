@@ -142,27 +142,23 @@ Open-source work around Pulp repository management, focused on Debian publishing
 
 ## Current Focus
 
-I am currently building [MarketPilot / stocks-analysis](https://github.com/matanswisa/stocks-analysis), a modern stock research workspace for market scanning, chart analysis, financial research, watchlists, screeners, heatmaps, portfolio tracking, and company comparison.
+I am currently building [MetrionAI](https://github.com/matanswisa/stocks-analysis), a modern market intelligence workspace for stock research, chart analysis, financial statements, watchlists, screeners, heatmaps, portfolio tracking, company comparison, and AI-assisted thesis workflows.
 
-The goal is to turn raw market information into a cleaner research flow: scan the market, open a company, study fundamentals, compare peers, inspect technical context, follow news, and build a stronger investment thesis.
+The goal is to turn market data into a focused research flow: scan the market, open a company, study fundamentals, compare peers, inspect technical context, follow news, and build a clearer investment thesis.
 
-**Live demo:** [stocks-analysis-alpha.vercel.app](https://stocks-analysis-alpha.vercel.app/)
+**Live app:** [metrionai.com](https://metrionai.com/)
 
 <p align="center">
-  <img src="assets/marketpilot-dashboard.png" alt="MarketPilot market dashboard with indexes, market status, search, and research navigation" width="100%" />
+  <img src="assets/metrionai-dashboard.png" alt="MetrionAI market dashboard with indexes, sentiment, market status, search, and research navigation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/marketpilot-charts.png" alt="MarketPilot interactive chart workspace with indicators, drawing tools, comparison tools, and earnings markers" width="100%" />
+  <img src="assets/metrionai-stock-analysis.png" alt="MetrionAI Microsoft stock analysis workspace with estimates, valuation, score, signals, and peer comparison tabs" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/marketpilot-stock-analysis.png" alt="MarketPilot Microsoft stock analysis workspace with estimates, valuation, score, signals, and peer comparison tabs" width="49%" />
-  <img src="assets/marketpilot-heatmap.png" alt="MarketPilot stock heatmap with sector filters and market-cap weighted performance tiles" width="49%" />
+  <img src="assets/metrionai-heatmap.png" alt="MetrionAI stock heatmap with sector filters and market-cap weighted performance tiles" width="49%" />
+  <img src="assets/metrionai-compare.png" alt="MetrionAI stock comparison page with peer cards and relative performance chart" width="49%" />
 </p>
 
-<p align="center">
-  <img src="assets/marketpilot-compare.png" alt="MarketPilot stock comparison page with peer cards and relative performance chart" width="100%" />
-</p>
-
-Current product work focuses on making the platform clearer, faster, and more useful for real research: better charting tools, stronger financial analysis pages, cleaner mobile UX, deeper portfolio tracking, and practical AI-assisted thesis workflows.
+Current product work focuses on making the platform clearer, faster, and more useful for real research: stronger financial analysis pages, cleaner mobile UX, deeper portfolio tracking, better charting workflows, and practical AI-assisted thesis tools.
